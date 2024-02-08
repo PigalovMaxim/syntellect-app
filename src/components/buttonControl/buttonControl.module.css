@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: rgb(245, 245, 245);
+  margin-bottom: 30px;
+}
+
+.buttonBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+}
+
+.title {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 200px;
+  text-align: center;
+}
